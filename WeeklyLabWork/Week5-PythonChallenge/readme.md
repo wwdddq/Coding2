@@ -1,5 +1,7 @@
 # Python Challenge
 
+## Reflections on Learning
+
 As a beginner, I encountered many challenges and problems in completing my Python Challenge assignment. In this reflection readme, I would like to share some of the things I learned as well as some of the problems I encountered and solutions I came across in the process.
 Firstly, I would like to say that this challenge was really fun! Each level made me feel excited and curious, and I learned a lot of new Python knowledge and skills. I found this challenge not only an opportunity to practice programming in Python, but also a great way to develop logical thinking and problem solving skills.
 
@@ -11,6 +13,7 @@ Finally, I would like to say that this challenge does take some time and patienc
 
 All in all, this Python Challenge was a great opportunity to practice and learn. Although it has some difficulties and challenges, I believe that through continuous learning and exploration, I can better understand the nature of Python and programming.
 
-Reference
+## Reference
+
 https://www.hackingnote.com/en/python-challenge-solutions/level-0/index.html
 https://www.python.org/doc/
