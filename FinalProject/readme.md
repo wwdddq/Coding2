@@ -12,11 +12,11 @@ The project I did was to use OpenFrameWork to create audio visualisations. I was
 
 - Status 2 calculated the position of each point on the circle using trigonometric functions. By continuously calculating the position of the target point, parameters such as the length, position and size of each point were updated, resulting in an animation with audio feedback.
 
-<img width="1647" alt="截屏2023-03-17 12 22 19" src="https://user-images.githubusercontent.com/119059058/225903914-5e7b7f09-0694-4d13-b798-cfcfe65b9781.png">
+<img width="1645" alt="截屏2023-03-17 12 22 47" src="https://user-images.githubusercontent.com/119059058/225903931-54304e69-f803-44a8-b183-2bb3353a9a4a.png">
 
 - Status 3 uses sine-wave animations generated from an adaptation of Zach Lieberman's sine wave.
 
-<img width="1645" alt="截屏2023-03-17 12 22 47" src="https://user-images.githubusercontent.com/119059058/225903931-54304e69-f803-44a8-b183-2bb3353a9a4a.png">
+<img width="1647" alt="截屏2023-03-17 12 22 19" src="https://user-images.githubusercontent.com/119059058/225903914-5e7b7f09-0694-4d13-b798-cfcfe65b9781.png">
 
 - Status 4 uses two sets of circles to visualise the audio. The size of the larger circle depends on the FFT value. The circles are generated using a random number generator with a fixed seed value, so that the circles appear in the same position in each frame. This creates a static background where the circles expand and contract with the music. The radius of the smaller circles is fixed and does not change size with the FFT value. These circles are drawn on top of the larger circles to create a dynamic foreground. The smaller circles move randomly and are drawn at different positions in each frame, so they appear to move with the music.
 
