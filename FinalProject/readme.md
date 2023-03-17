@@ -1,5 +1,7 @@
 # Coding2 Final Project
+## Fantasy Audio Visualisation
 The project I did was to use OpenFrameWork to create audio visualisations. I was interested in audio visualisation during my coding1 studies at school, but at the time I didn't know much about how to do projects in this area in js, so I ended up giving up. This time, in the process of learning OF, I found that OF has instructions to extract the spectrum of audio directly, which is very helpful for doing audio visualisation, so I chose to do this topic. In terms of presentation, because I am more interested in 2D and because I wanted to experiment more with the features of OF, I chose to do this assignment in different forms of segmentation for the motion effects, and the method of segmentation was to extract audio keyframes. I also learnt a lot during this time and knew a lot of code instructions that I hadn't seen before, which I believe will be useful for my future creative coding studies. All in all, I'm just fine with OF being a great tool, probably because it was easier for me than I thought it would be with the foundation of the first semester.
+
 
 ## To watch the full video click on: https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=63d53572-a853-426b-814c-afc800cdeb39
 
